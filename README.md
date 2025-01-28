@@ -1,4 +1,4 @@
-# Public Transport Journeys by Type of Transport Project
+# Public Transport Journeys Project
 
 ## Project Background:
 As a Data Analyst specialising in transport analytics, I analysed transport journey data in London from 2010 to 2024. The dataset includes details on the number of journeys made for each mode of transport (bus, underground, DLR, tram, overground, London Cable Car, and TfL Rail), as well as the financial year, reporting period, and monthly data. The objective of this analysis was to uncover trends in transport usage, identify peak and low periods, and provide actionable recommendations for improving transport infrastructure, resource allocation, and public transport services.
