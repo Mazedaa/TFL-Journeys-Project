@@ -79,6 +79,4 @@ This analysis provides a comprehensive overview of transport trends in London, f
 - See [my cleaning, analysis, and pivot tables](https://github.com/Mazedaa/TFL-Journeys-Project/blob/main/tfl-journeys-type_clean.xlsx)
 - See [my Google Sheet dashboard](https://github.com/Mazedaa/TFL-Journeys-Project/blob/main/GoogleSheetDashboard.png)
 - See [my SQL queries](https://github.com/Mazedaa/TFL-Journeys-Project/blob/main/tfl-journeys.sql)
-- See [my Tableau Dashboard Part 1](https://github.com/Mazedaa/TFL-Journeys-Project/blob/main/TableauDashboard.png)
-- See [my Tableau Dashboard Part 2](https://github.com/Mazedaa/TFL-Journeys-Project/blob/main/TableauDashboard2.png)
-
+- See [my Tableau Dashboard](https://github.com/Mazedaa/TFL-Journeys-Project/blob/main/TableauTFLDashboard.png)
